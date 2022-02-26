@@ -1,3 +1,5 @@
+<h1>Secure the Web App </h1>
+
 1. When the Register an application page appears, enter your application's registration information:
 	Enter a Name for your application, 
 	for example AspNetCore-WebApp. Users of your app might see this name, and you can change it later.
