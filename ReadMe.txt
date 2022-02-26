@@ -12,7 +12,7 @@
 			The cloud instance (Instance) if you want your app to run in national clouds, for example
 			The audience in the tenant ID (TenantId)
 			The client ID (ClientId) for your application, as copied from the Azure portal
-Link to appsettings.json 
+Link to <a href="./MIP.WebApp/appsettings.json"> appsettings.json</a> 
 
 3. Initialization code
    a. Add the Microsoft.Identity.Web and Microsoft.Identity.Web.UI NuGet packages to your project. 
