@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIP.WebApp", "MIP.WebApp\MIP.WebApp.csproj", "{60DE378E-F286-4267-AC5B-A3EDDFECC4D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApp that signs in users", "WebApp that signs in users", "{C8EFD926-CA47-470F-9F81-3CDE2CF79AEE}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "imgs", "imgs", "{EA604432-3768-4CCD-9E29-2DFD97E19788}"
+	ProjectSection(SolutionItems) = preProject
+		..\1.jpg = ..\1.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Protected WebAPI 1", "Protected WebAPI 1", "{46844D52-09D0-4D7A-AB2B-039A7E401145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60DE378E-F286-4267-AC5B-A3EDDFECC4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DE378E-F286-4267-AC5B-A3EDDFECC4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DE378E-F286-4267-AC5B-A3EDDFECC4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DE378E-F286-4267-AC5B-A3EDDFECC4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60DE378E-F286-4267-AC5B-A3EDDFECC4D5} = {C8EFD926-CA47-470F-9F81-3CDE2CF79AEE}
+		{EA604432-3768-4CCD-9E29-2DFD97E19788} = {C8EFD926-CA47-470F-9F81-3CDE2CF79AEE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8B4126E-A2C2-4074-B332-40A5E4BA40C3}
+	EndGlobalSection
+EndGlobal
